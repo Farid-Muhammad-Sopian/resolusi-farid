@@ -2,7 +2,10 @@ Rencana Farid
 - membuat mockup aplikasi
   * frame
   * rectangle
+   - menu makanan
   * NAV bottom
+   - menu konfirm
+   - menu profile
 - menyelesaikan materi oracle
   * section 6
   * section 7
