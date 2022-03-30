@@ -1,3 +1,11 @@
 Rencana Farid
 - membuat mockup aplikasi
+  * frame
+  * rectangle
+  * NAV bottom
 - menyelesaikan materi oracle
+  * section 6
+  * section 7
+  * section 8
+  * section 9
+  * presentasi
