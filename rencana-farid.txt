@@ -5,6 +5,7 @@ Rencana Farid
    - kolom search
   * NAV bottom
    - menu home
+   - menu keranjang
 - menyelesaikan materi oracle
   * section 6
   * section 7
